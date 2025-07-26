@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @hmzeta
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning new programming languages and polishing my skills
-- 😄 Pronouns: he/him
+🎓 Laureando in Informatica | 💻 Appassionato di sviluppo software & AI | 🚀 Sempre in cerca di nuove sfide
 
-<!---
-hmzeta/hmzeta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Coding my way through Computer Science 👨‍💻 | Java • Python • C++ | Based in Modena
+
+Developer in the making 🚀 | Software, AI & Web enthusiast | Let's build something cool
+
+Full stack learner 👨‍💻 | Java, Python, JS | Passion for clean code & smart systems
+
+Informatica @UNIMORE 🎓 | Java • Python • AI • Web Dev | Let's connect!
